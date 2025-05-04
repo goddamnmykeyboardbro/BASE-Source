@@ -1,0 +1,335 @@
+<roblox!‰ÿ
+
+     g           META$   "       ð      ExplicitAutoJoints   trueINST)   O       ð       Folder   ð 
+
+INST    :       ÿ      Frame 
+  
+ (&.INST&   @       ÿ    
+   ImageButton 
+  
+ <@INST   '       ù   
+   ImageLabel   P HINST)   L       ÿ    
+   LocalScript 
+  Ð.<8
+INST          ð
+   	   ScreenGui        INST          ð	       TextBox       INST   #       õ    
+   TextButton   P  –INST$   >       ÿ   	   TextLabel 
+  
+ `INST3   y       ÿ	      UICorner   :ð
+
+"INST   '       @
+    ÙUIGradient   P &$<@INST    1       ÿ
+      UIStroke    p>BPROP*   X       ð
+       AttributesSerialize   P     PROP#          ð       Capabilities!  \P     PROP,   +       ð
+       DefinesCapabilities °           PROPt         ð    	   HistoryId   ! ú¾¹¿ËÎÒïò$×ÛâââKC8£0±ÁÑuýá¥¦Ç & ‹ ™ l ® Ü d 9 S 
+ %9N PNNNNNPROP’   œ       ð       Name   Editor   Butop @Main `Window @Home `PLAYER °Cred   TEX  öIMG    Discord   Settings
+ @Lock& ð	Control   UI    SettingPROP(   Ž       ð     
+   SourceAssetId  R PPROP   I       Ð       Tags
+   P     PROPc         ð       UniqueId   ] úšž¨·¿ÂÉÍÕ×Üáéêî )   R » e ñ ' M  , Ö PÖÖÖÖÖPROP          ð
+      Active          PROP    d       ÿ   
+   AnchorPoint
+  7P     PROP)   D       ð      AttributesSerialize  
+P     PROP!          ð      AutoLocalizePROP"   >       ÿ   
+   AutomaticSize  P     PROP   ‘       ö      BackgroundColor3{ {{|  |y|A AáÉ  É‘
+ öB BäÌ  Ì„’y y{{  {y| Aáq  q‘
+  „ Bär  r„’P ö}  }y|± Qáñ  ñ‘
+  ´ Räô  ô„’PROPI   G       ð8      BackgroundTransparency ~  ~~~~   ð  æææá   £  fffG   Ø  fff®  PROP"          ð      BorderColor3  ]P     PROP   ;       ÿ   
+   BorderMode  P     PROP$   @       ÿ
+      BorderSizePixel  P     PROP!   e       ÿ       Capabilities!  7P     PROP%   #       ð      ClipsDescendants          PROP(   &       ð      DefinesCapabilities          PROP          ð
+   	   Draggable          PROPn   ²       ÿ   	   HistoryId   õ±ë·ÀÎÓÓÎÚfuÎ¤1÷÷14ê & $(‹ $i™ $4l $;® $XÜ $)d $£9 $vS f À9	NNNNNNNNN¬PROP!          ð      InteractablePROP    <       ÿ   
+   LayoutOrder  P     PROPz   €       Ð      Name	 ð Base
+   EditorMenu   TopBar    Buttops   Home!  7 @Play ðCredits   Settings# ƒ
+   What     OpenerPROP+   B       ÿ      NextSelectionDown  
+          PROP+   B       ÿ      NextSelectionLeft  
+          PROP,   C       ÿ
+      NextSelectionRight  
+          PROP)   @       ÿ
+      NextSelectionUp  
+          PROPn   ±       ÿT      Position |z }zxzz~~¢‰ ä…¨°‰è7 ˆ"’7æê¾L  (J4Lj{{ |{z~{zyóç ëèDQç+¶­l …©®+lµÔŒ ¤Ô¶ŒD   6P     PROP/   F       ÿ      RootLocalizationTable  
+          PROP   9       ÿ      Rotation  P     PROP          ð   
+   Selectable          PROP*   F       ÿ      SelectionBehaviorDown  P     PROP*   F       ÿ      SelectionBehaviorLeft  P     PROP+   G       ÿ      SelectionBehaviorRight  P     PROP(   D       ÿ      SelectionBehaviorUp  P     PROP#   !       ð      SelectionGroup          PROP.   E       ÿ      SelectionImageObject  
+          PROP#   ?       ÿ	      SelectionOrder  P     PROP?   ­       ï      Size   Pÿ  &š®Îš®‚šFw @   À ¼Öd2ÖìÖ^HPROP#   ?       ÿ	      SizeConstraint  P     PROP'   f       ÿ   
+   SourceAssetId  2 PROP   6       ÿ       Style  P     PROP   5       À      Tags  
+P     PROP\   ±       ÿ      UniqueId   ] µ™›©¬ÀÃÊÝßö )   R » e ñ ' M  ,  ÖÖÖÖÖÖÖÖÖÖPROP          ð
+       Visible   PROP    7       ÿ      ZIndex  
+ PROP          ð
+      ActivePROP    d       ÿ   
+   AnchorPoint
+  7P     PROP(   D       ÿ      AttributesSerialize  P     PROP$   "       ð      AutoButtonColorPROP!          ð      AutoLocalizePROP"   >       ÿ   
+   AutomaticSize  P     PROP8   ‘       ô
+      BackgroundColor3 $|  ‘	  
+ ’' ( 0P    ’PROP/   G       õ      BackgroundTransparency   P     PROP"          ð      BorderColor3  ]P     PROP   ;       ÿ   
+   BorderMode  P     PROP$   @       ÿ
+      BorderSizePixel  P     PROP!   e       ÿ       Capabilities!  7P     PROP%   #       ð      ClipsDescendants          PROP(   &       ð      DefinesCapabilities          PROP          ð
+   	   Draggable          PROPo   ²       ý   	   HistoryId  õ ¹º»Å¿ÄËÍhD‰¸ç™b¤M{ & $(‹ $i™ $4l $;® $XÜ $)d $£9 $vS f À9	NNNNNNNNN¬PROP+   B       ÿ      HoverHapticEffect  
+          PROP   ;       ÿ   
+   HoverImage  P     PROPÉ   I      þ      Image   rbxassetid://81411253768527 Ý4886422910926 ü 96262592128201] ÿ 119528369360404   ß5336881065186   ß3260117262227   Ý8525168384860Ÿ Ï894108186073¾ Ï138709667334~  à25134890760498PROPP   Œ       ó   
+   ImageColor3 3}  a 
+ #b '  ( •#  
+ ˜( ~P å$   
+ P   è PROP$   h       ÿ
+      ImageRectOffset
+  7P     PROP#   f       ð   
+   ImageRectSize  5P     PROP&   B       ÿ      ImageTransparency  P     PROP!          ð      InteractablePROP    <       ÿ   
+   LayoutOrder  P     PROP          ð	      Modal          PROPe   g       Ð      Name
+  EX  CL  AT ð5Home   Editor   Settings   Close   Min
+   ImageButton    OpenenePROP+   B       ÿ      NextSelectionDown  
+          PROP+   B       ÿ      NextSelectionLeft  
+          PROP,   C       ÿ
+      NextSelectionRight  
+          PROP)   @       ÿ
+      NextSelectionUp  
+          PROPn   ±       ÿT      Position {||{}~~~|¦Ÿ~ ù‹S´ŽØ™
+©!P¤øÚ²*ê`dB~~~{{{||z|ëëë™ÂÛÛÛ………™œ¨ÀÀÀš\È   6P     PROP+   B       ÿ      PressHapticEffect  
+          PROP!   =       ÿ       PressedImage  P     PROP!   =       ÿ       ResampleMode  P     PROP/   F       ÿ      RootLocalizationTable  
+          PROP   9       ÿ      Rotation  P     PROP   :       ÿ   	   ScaleType  P     PROP          ð   
+   SelectablePROP          ð      Selected          PROP*   F       ÿ      SelectionBehaviorDown  P     PROP*   F       ÿ      SelectionBehaviorLeft  P     PROP+   G       ÿ      SelectionBehaviorRight  P     PROP(   D       ÿ      SelectionBehaviorUp  P     PROP#   !       ð      SelectionGroup          PROP.   E       ÿ      SelectionImageObject  
+          PROP#   ?       ÿ	      SelectionOrder  P     PROP+   ­       ï      Size   Z¯XXX""",,z.w 
+ TTT$$$,,|2PROP#   ?       ÿ	      SizeConstraint  P     PROP    ´       ÿ   
+   SliceCenter  ‡P     PROP#   ;       õ   
+   SliceScale   P     PROP'   f       ÿ   
+   SourceAssetId  2 PROP   6       ÿ       Style  P     PROP   5       ï      Tags  P     PROP-   ±       õ      TileSize    
+' ' 
+ 9P     PROP\   ±       ÿ      UniqueId   ] µŸ¢¥®±´¸ºØø )   R » e ñ ' M  ,  ÖÖÖÖÖÖÖÖÖÖPROP          ð
+       VisiblePROP    7       ÿ      ZIndex  
+ PROP          ð      Active    PROP    4       ÿ   
+   AnchorPoint
+   P     PROP'   ,       ö      AttributesSerialize  P     PROP          ð
+      AutoLocalizePROP!   &       ö   
+   AutomaticSize  P     PROP,   I       ÷      BackgroundColor3   P     PROP1   /       ð       BackgroundTransparency            PROP"   E       ð      BorderColor3  P     PROP   #       ö   
+   BorderMode  P     PROP$   (       ð      BorderSizePixel  P     PROP!   5       ÿ       Capabilities!   P     PROP          ð      ClipsDescendants    PROP"           ð      DefinesCapabilities    PROP          ð    	   Draggable    PROPR   R       ò   	   HistoryId  ð*´Ðø"‚ë¿•&&&&‹‹‹‹™™™™llll®®®®ÜÜÜÜdddd9999SSSS9999NNNNPROP„   Ÿ       ü       Image   rbxassetid://139819652060989  ñ76911416518152.   http://www.roblox.com/R þ/?id=86945601840818q    1689291590PROP'   D       ÷
+   
+   ImageColor3   P     PROP$   8       ÿ
+      ImageRectOffset
+   P     PROP#   6       ð   
+   ImageRectSize  P     PROP%   *       ö      ImageTransparency  P     PROP          ð
+      InteractablePROP    $       ð   
+   LayoutOrder  P     PROP5   :       Ð      Name
+ õLog   Avatar
+   ImageLabel PLabelPROP%   *       ö      NextSelectionDown  P    PROP%   *       ö      NextSelectionLeft  P    PROP&   +       ö
+      NextSelectionRight  P    PROP#   (       ö
+      NextSelectionUp  P    PROP=   Q       ÿ#      Position tzz}ØKÜÌéôÈHÑžxÊ ||z vUÑ SU¥ ªVø   P     PROP    %       ö       ResampleMode  P     PROP)   .       ö      RootLocalizationTable  P    PROP   !       ö      Rotation  P     PROP   "       ö   	   ScaleType  P     PROP          ð   
+   Selectable    PROP)   .       ö      SelectionBehaviorDown  P     PROP)   .       ö      SelectionBehaviorLeft  P     PROP*   /       ö      SelectionBehaviorRight  P     PROP'   ,       ö      SelectionBehaviorUp  P     PROP          ð      SelectionGroup    PROP(   -       ö      SelectionImageObject  P    PROP#   '       ð       SelectionOrder  P     PROP    M       ï      Size   WdZ*$/ P dT(ÞPROP"   '       ö	      SizeConstraint  P     PROP    T       ÿ   
+   SliceCenter  'P     PROP%   #       ð   
+   SliceScale            PROP"   6       ÿ   
+   SourceAssetId   P PROP          æ      Tags  P     PROP'   Q       ÷       TileSize     P     PROPP   Q       ó      UniqueId  ð)]]]]¼ÆÔÖ))))    RRRR»»»»eeeeññññ''''MMMM,,,,ÖÖÖÖPROP          ð       VisiblePROP          à      ZIndex  P PROP(   P       ÿ      AttributesSerialize  P     PROP!   }       ÿ       Capabilities!  OP     PROP'   )       ó      DefinesCapabilities  P     PROP          ó      Disabled  P     PROPº   â       ø   	   HistoryId   0   ønodwdY¯?¯—¯öQïqï- & ((&((()‹ ii‹iii ™ 44™444Rl ;;l;;;»® XX®XXXeÜ ))Ü)))ñd ££d£££'9 vv9vvvMS qffSfff ‘9		9			,N p¬¬N¬¬¬ÖPROP!   I       ÿ       LinkedSource  P     PROPP   «       @    ðName	   Animation OOpen ÿ 
+   LocalScript 
+«   UIDrag(  PcriptPROP   G       ÿ   
+   RunContext  P     PROP  5      ñ.   
+   ScriptGuid&   {38BA4BF9-4DA4-4D1F-890C-C61916BD2908}* ò5990E70B-FEE2-4B9E-9BB4-2F512139F9B0* ò9C6B8C5F-B5FF-4A36-BD75-5D55B5AEB2D7* ò89FBC9CE-B58D-4ABB-8C73-4BE259D699FD* òF369E309-5AA9-42D3-9F3A-7D214F284A33* òC55F2DC5-7242-4931-A7BC-42F78D6E16A9* ò4211D14C-DDDA-4EF6-B26B-5083CE691B4F* óB06FB7C8-0270-411D-806C-7426BA2B84BT óC09EEA3A-166C-4B29-9E0B-2F028A1F767&òF1BFD9EC-E49C-4C95-995B-950DDAA843FA~ ò144B2178-75B6-4CBF-8C91-CDA79B7CC03B* òB9ED304F-384C-4D7F-91FB-35AD87EC1B6E* °D990C338-D3ü ð 0EF-93A1-CE1A4482B095}PROPÖ  /+      ó!      Source‹   local TweenService = game:Get (("  2")
+5 ó"button = script.Parent
+
+-- Default properties --
+8 d 0Sizl ðUDim2.new(0, 17,   8d , ÑImageColor =  ô 3.fromRGB(255,  
+8 `Transp˜ acy = 0 _Hover› h ™ 8™ 39) Æ + ˜ 6 – cç configuration4t¡bInfo =­  6ú
+	0.4,
+	Enum.EasingStyle.Quint PDirecZ 0.Ou ±0,
+	false
+)÷Glow effect setup‚ RglowE ¡= Instance‚ "†Label")
+( @.Namâ"W ; " «Background1& ] ù = "rbxassetid://7928096707S -  # =¡	 /or? ¿ 8 › 	
+)21.5' 	M @Posiz
+ò( ",  	0  AnchorPoinpcVector'- ).5/ fZIndexô  -L¢& ‘aactive#
+
+5ñ MouseEnter:Connect(fun=h()
+	if6 ‡ then
+		  :C l, Xend
+
+ Ä_‚:Create(z ,ìc, {
+		f:  A,
+		›3  ! 
+¼B  I
+	})™ ¡:Play()
+
+	
+
+  ,„À )ad 	)Þ · •  § .6Ä  í 	/#1.† )¿ ² Jend)¼_Leave¼tÆ Ñ  Ù ô ¾  # 
+)   Â46«CÂ$1Ä  ï 
+À
+
+À$' ŒHomeMenu\ c    5   : ¥`Editor K 7    > O €Settings Q 9 	  B )
+
+9sBUo1Click¾Dnot é ‚.Visibleƒ6
+		µ  "= å(		 
+ =
+		V = true
+	e% =
+			ñStarterGui"):SetCore("SendNotificÊ "íA	TitU `"ðŸš«"%@	TexâÒ"Already Open D Q= 5
+	¬ K ëº	ÿÿÿÿÿÿÿƒ)º	ÿ¡	 ? ë
+ `
+
+Ÿ	ž	Ù	÷	¼	ÿÿÿÿÿÿÿÿ+¼	ÿ@¾	Ù	 ¡	¼	
+V ¾	„$— ¥PClose
+Æd£ ð :WaitForChild("ñ%erVMû S .Basep› Lò _¸  ‡ Í /neÎ +
+T  Ü Q  }"
+
+ D.Me^ Ý   B   ‰	t¾™ ,˜finish = EM+ L`¤–ðŸ”µ :Sá.gg/YHWZCk4qZY 
+T}9
+8IÂwait(0.05)
+	× (G ñ)
+  -- Made by Real_IceyDev (@l
+  x)Tñ-- Simple UI dragger (PC Only/Any deŒ Àthat has a m’> T?UIS¬  ”'UserInpu¾ ' "fr	]L  „ AToggž7nil QSpeed–(25  ù	- s 3Pos , ñq updateš  (i  2)
+	É delta =  *-a* pFx §.X.Scale,  ‚Offset +e  .Xt Y1 Y1 Y¨ '$')À` YB ðÛ =Ê 	!
+
+D .%^Began%‚G.ñrType ==Š	 	3 ork	$ : aTouch)_@ 
+		Ð ) §
+Ä m ü à1
+		Ì Ž.Changedë @)
+		j' ­ OStatè   A.End¬  ; ™ ­ +!		E  QR
+
+UISx ‡ z
+ yMovementz Í !ifÎ s?			Tà  å 
+¡h ¡
+© z	BThis sFÉJ ÷. ( #
+
+Ã‘ VÔ 
+ d	T 5 × ž 
+"  ¡ÿÿÿÿ…!— 5
+$7*$   $–(3=+=4
+
+ ƒ
+--[[
+
+m|
+ð
+loafmoonlua (Discord) , q)Ãyn_im_him (d ð
+
+		[Github Source: ]PROPS   ~       ÿ   
+   SourceAssetId   	 Á    h h Õ    Œ Œ ˜ ð   – – ´´´’’PROP   A       @    oTags  P     PROP^   á       ÿ      UniqueId  ] è¯°²³µ¶¹»Ùõúýþ )   R » e ñ ' M  , Ö PÖÖÖÖÖPROP"           ð      AttributesSerialize    PROP          ð       AutoLocalizePROP          ð      Capabilities!        PROP           ð      ClipToDeviceSafeAreaPROP          ð      DefinesCapabilities PROP          ð
+      DisplayOrder    PROP          ð       EnabledPROP$   "       ð   	   HistoryId  ±P&‹™l®Üd9S9NPROP          ð
+      Name	   BaseplatePROP          ð       ResetOnSpawnPROP$   "       ð      RootLocalizationTable   PROP$   "       ð      SafeAreaCompatibility   PROP          ð
+      ScreenInsets   PROP$   "       ð      SelectionBehaviorDown    PROP$   "       ð      SelectionBehaviorLeft    PROP%   #       ð      SelectionBehaviorRight    PROP"           ð      SelectionBehaviorUp    PROP          ð	      SelectionGroup PROP           ð   
+   SourceAssetId       PROP          ð      Tags    PROP#   !       ð      UniqueId  ]˜) R»eñ'M,ÖPROP          ð      ZIndexBehavior   PROP          @    €ActivePROP          ð
+   
+   AnchorPoint
+        PROP"           ð      AttributesSerialize    PROP          ð       AutoLocalizePROP          ð
+   
+   AutomaticSize    PROP'   %       ð      BackgroundColor3|ÁÁÄx„yAABPROP%   #       ð      BackgroundTransparency~…¸PROP"   !       ð      BorderColor3          PROP          ð   
+   BorderMode    PROP          ð
+      BorderSizePixel    PROP          ð      Capabilities!        PROP          ð
+      ClearTextOnFocusPROP          ð
+      ClipsDescendants PROP          ð      DefinesCapabilities PROP          ð   	   Draggable PROPZ   r       ÿ6      FontFace ,   rbxasset://fonts/families/SourceSansPro.json *3 	* À-Regular.ttfPROP$   "       ð   	   HistoryId  ½0&‹™l®Üd9S9NPROP          ð       InteractablePROP          ð	   
+   LayoutOrder    PROP          ð   
+   LineHeight   PROP*   (       ð      LocalizationMatchIdentifier    PROP,   *       ð      LocalizationMatchedSourceText    PROP"           ð      MaxVisibleGraphemes   PROP          ð   	   MultiLinePROP          ð      Name   EditorPROP           ð      NextSelectionDown   PROP           ð      NextSelectionLeft   PROP!          ð      NextSelectionRight   PROP          ð
+      NextSelectionUp   PROP          ð      OpenTypeFeatures    PROP(   &       ð      PlaceholderColor3~mmn~mmn~mmnPROP9   7       ð(      PlaceholderText   Try: print("Base Executor")PROP#   !       ð      Position {C¨zWoÌ        PROP          ð      RichTextPROP$   "       ð      RootLocalizationTable   PROP          ð      Rotation    PROP          ð   
+   SelectablePROP$   "       ð      SelectionBehaviorDown    PROP$   "       ð      SelectionBehaviorLeft    PROP%   #       ð      SelectionBehaviorRight    PROP"           ð      SelectionBehaviorUp    PROP          ð	      SelectionGroup PROP#   !       ð      SelectionImageObject   PROP          ð      SelectionOrder    PROP          ð
+      ShowNativeInputPROP          å      Size   `Œ  .PROP          ð      SizeConstraint    PROP           ð   
+   SourceAssetId       PROP          ð      Tags    PROP          ð      Text    PROP!          ð   
+   TextColor3            PROP          ð
+   
+   TextDirection    PROP          ð       TextEditablePROP          ð   
+   TextScaled PROP          ð      TextSize‚À  PROP'   %       ð      TextStrokeColor3            PROP%   #       ð      TextStrokeTransparency   PROP          ð      TextTransparency    PROP          ð
+      TextTruncate    PROP          ð   
+   TextWrapped PROP          ð      TextXAlignment    PROP          ð      TextYAlignment    PROP#   !       ð      UniqueId  ]œ) R»eñ'M,ÖPROP          ð       VisiblePROP          @    °ZIndex   PROP          ð       ActivePROP   ,       þ    
+   AnchorPoint
+  P     PROP*   (       ð       AttributesSerialize            PROP          ð       AutoButtonColorPROP          ð	       AutoLocalizePROP$   "       ð    
+   AutomaticSize            PROP7   =       ÷       BackgroundColor3~||EQQEQQFRR  À}} 		 		 
+
+PROP-   +       ð       BackgroundTransparency            PROP"   9       ð       BorderColor3  	P     PROP!          ð    
+   BorderMode            PROP&   $       ð       BorderSizePixel            PROP    -       þ        Capabilities!  P     PROP          ð
+       ClipsDescendants   PROP!          ð       DefinesCapabilities   PROP          ð    	   Draggable   PROPS   ¶       ÿ9       FontFace ,   rbxasset://fonts/families/SourceSansPro.json¼     7 VP     PROPC   B       ñ    	   HistoryId  ðããã^^^&&&‹‹‹™™™lll®®®ÜÜÜddd999SSS999NNNPROP(   &       ð       HoverHapticEffect           PROP          ð	       InteractablePROP"           ð    
+   LayoutOrder            PROP!          ð    
+   LineHeight         PROP2   0       ð!       LocalizationMatchIdentifier            PROP4   2       ð#       LocalizationMatchedSourceText            PROP*   (       ð       MaxVisibleGraphemes         PROP          ð       Modal   PROP)   '       ð       Name   UI   Actual   CustomPROP(   &       ð       NextSelectionDown           PROP(   &       ð       NextSelectionLeft           PROP)   '       ð       NextSelectionRight           PROP&   $       ð       NextSelectionUp           PROP'   %       ð       OpenTypeFeatures            PROP4   A       þ       Position {{zý¸¸ðRR |}}‡=º+p{¤ž  P     PROP(   &       ð       PressHapticEffect           PROP          ð       RichText   PROP,   *       ð       RootLocalizationTable           PROP          ð       Rotation            PROP          ð     
+   SelectablePROP          ð       Selected   PROP,   *       ð       SelectionBehaviorDown            PROP,   *       ð       SelectionBehaviorLeft            PROP-   +       ð       SelectionBehaviorRight            PROP*   (       ð       SelectionBehaviorUp            PROP          ð
+       SelectionGroup   PROP+   )       ð       SelectionImageObject           PROP%   #       ð       SelectionOrder            PROP   =       À       Size  
+3ÞÞÞ! P  444PROP%   #       ð       SizeConstraint            PROP!   .       þ    
+   SourceAssetId  P  PROP          ð
+       Style            PROP          ð
+       Tags            PROP)   '       ð       Text   UI   Actual   CustomPROP(   7       ñ    
+   TextColor3~~~™ ?ššš  P™™šššPROP$   "       ð    
+   TextDirection            PROP          ð     
+   TextScaled   PROP          ð       TextSize‚‚‚ÀÀÀ      PROP%   =       ÿ
+       TextStrokeColor3  
+P     PROP-   +       ð       TextStrokeTransparency         PROP'   %       ð       TextTransparency            PROP#   !       ð       TextTruncate            PROP          ð    
+   TextWrapped   PROP%   #       ð       TextXAlignment         PROP%   #       ð       TextYAlignment         PROPB   A       ñ       UniqueId  ð]]]ãåç)))   RRR»»»eeeñññ'''MMM,,,ÖÖÖPROP          @     °VisiblePROP          ð       ZIndex         PROP          ð
+      Active          PROP    d       ÿ   
+   AnchorPoint
+  7P     PROP(   D       ÿ      AttributesSerialize  P     PROP!          ð      AutoLocalizePROP"   >       ÿ   
+   AutomaticSize  P     PROPl   ‘       ÷      BackgroundColor3|||~{{{ ñ  E‘‘‘
+ ’ô  F”””( B ||| G ‰‰‰
+ ( B ŒŒŒ( C}}} 7)))
+ ô   ***PROPC   G       ò      BackgroundTransparency   ~~~  2………	 à        ¸¸¸PROP"          ð      BorderColor3  ]P     PROP   ;       ÿ   
+   BorderMode  P     PROP$   @       ÿ
+      BorderSizePixel  P     PROP!   e       ÿ       Capabilities!  7P     PROP%   #       ð      ClipsDescendants          PROP(   &       ð      DefinesCapabilities          PROP          ð
+   	   Draggable          PROP         @    ÿ.FontFace ,   rbxasset://fonts/families/SourceSansPro.json *3 	* Ï-Regular.ttfa ÿr(²å”BalthazaráO    3 4 ê ¼i 7 WP     PROPg   ²       ù   	   HistoryId   õÒóóö%Úßèèè:ZZ iþØVVV & ‹ ™ l ® Ü d 9 S  °9NNNNNNNNNNPROP!          ð      InteractablePROP    <       ÿ   
+   LayoutOrder  P     PROP#   ;       õ   
+   LineHeight   P     PROP0   L       ÿ      LocalizationMatchIdentifier  P     PROP2   N       ÿ      LocalizationMatchedSourceText  P     PROP-   D       ÿ      MaxVisibleGraphemes  
+ PROPI   t       ð      Name	   TextLabel   1 ¹2   Contri! . Eitle	 	 
+ PLabelPROP+   B       ÿ      NextSelectionDown  
+          PROP+   B       ÿ      NextSelectionLeft  
+          PROP,   C       ÿ
+      NextSelectionRight  
+          PROP)   @       ÿ
+      NextSelectionUp  
+          PROP%   A       ÿ
+      OpenTypeFeatures  P     PROPm   ±       @    ÿLPosition }{{z}|€€€€	##©ª}ÛÏÏÏ±íIaaaÞÞ^öôo???}}~{{zy|}~„Z+zzÄ•' !ÖBµ‚‚Û‹µÈ¶,¬h¦   6P     PROP          @    ðRichText      PROP/   F       ÿ      RootLocalizationTable  
+          PROP   9       @    ¯Rotation  P     PROP          ð   
+   Selectable          PROP*   F       ÿ      SelectionBehaviorDown  P     PROP*   F       ÿ      SelectionBehaviorLeft  P     PROP+   G       ÿ      SelectionBehaviorRight  P     PROP(   D       ÿ      SelectionBehaviorUp  P     PROP#   !       ð      SelectionGroup          PROP.   E       ÿ      SelectionImageObject  
+          PROP#   ?       ÿ	      SelectionOrder  P     PROP5   ­       ï      Size   Qÿ    æLLzÌ¢$öööw 
+ <::<dJdXXXPROP#   ?       ÿ	      SizeConstraint  P     PROP'   f       ÿ   
+   SourceAssetId  2 PROP   5       ï      Tags  P     PROP›   ¦       ÷5      Text    SoulX_X   loafmoonlua 
+(Discord)   quintyn_im_him ð!   Contributors   Wanna Join Our Community? -> õSettings   UI   Idk  P  IdkPROPi   ‹       ð	   
+   TextColor3~~~~  `~™™™™   
+ Pšššš  š#    ¡  
+  # ¤ ( ( F   
+  šššš šššššPROP"   >       ÿ   
+   TextDirection  P     PROP          ð   
+   TextScaled        PROP/   9       @    úTextSize‚‚‚ƒƒ‚„ƒƒƒÀÀÀ@Àààà  P     PROP%   ‘       ÿ
+      TextStrokeColor3  _P     PROP/   G       õ      TextStrokeTransparency   P     PROP%   A       ÿ
+      TextTransparency  P     PROP!   =       ÿ       TextTruncate  P     PROP           ð   
+   TextWrapped  PROP(   ?       ÿ	      TextXAlignment  
+ PROP(   ?       ÿ	      TextYAlignment  
+ PROPZ   ±       @    ¯UniqueId   ] µÈÎÐÒÚâëïñó )   R » e ñ ' M  ,  ÖÖÖÖÖÖÖÖÖÖPROP          ð
+       VisiblePROP    7       ÿ      ZIndex  
+ PROP(   €       ÿ	      AttributesSerialize  KP     PROP!   Ý       ÿ 	      Capabilities!  ¯P     PROP4   Ý       ÿ 	      CornerRadius  ›! ðPROP(   5       ÿ	      DefinesCapabilities   P     PROPŸ   ¢      @	    ¿HistoryId  ÿ$½ºº»²Ã²ÎÔÒÔôôöÎÚÜÜÜßéééggè‹ºçÒÔáÔPPßÒ‡¿¿¿ÙÆÆ & ?((‹ ?ii™ ?44l ?;;® ?XXÜ ?))d ?££9 ?vvS /ff1 O9		N  PNNN¬¬PROP%   9      ÿ
+	      Name   UICorner ÿ	PornerPROP'   Þ       ÿ	   
+   SourceAssetId  ›  PPROP   q       ï	      Tags  KP     PROPx   ¡      ÿ	      UniqueId  ] ÿ
+¡¤§ª­¾ÁÄÇËÏÑÓÞàäæèìðòô÷ù )   R » e ñ ' M  , Ö  PÖÖÖÖÖPROP'   ,       ö
+      AttributesSerialize  P     PROP!   5       ÿ 
+      Capabilities!   P     PROP›   6      à
+      Color
+  &€?    33³>±°0> 1ßÞÞ €   ?¹¸¸=
+ 1õôt Nff&?( L   0        E?ˆ‡      @ 
+1œ›¼ 1½¼<, 8 @ Dýüü>  > 8  €?  €?    PROP"           ð
+      DefinesCapabilities    PROP          ð
+       EnabledPROPQ   R       ó
+   	   HistoryId  ð)·²Yj‹È
+¼&&((‹‹ii™™44ll;;®®XXÜÜ))dd££99vvSSff99		NN¬¬PROP$   E       Ð
+      Name
+ ¯UIGradient PdientPROP   /       ÿ
+      Offset
+   P     PROP#   !       ð
+      Rotation „ … h ,        PROP"   6       ÿ
+   
+   SourceAssetId   P PROP          æ
+      Tags  P     PROP*   …       ü
+      Transparency  $€?  <P     PROPP   Q       ó
+      UniqueId  ð)]]]]«½Ûû))))    RRRR»»»»eeeeññññ''''MMMM,,,,ÖÖÖÖPROP$   4       ÿ
+
+      ApplyStrokeMode  P     PROP(   8       ÿ
+      AttributesSerialize  P     PROP!   M       ÿ 
+      Capabilities!  P     PROPY   b       ð 
+      Color| “~ÑÑÑ‹   óÔÔÔŽ zzz||}xÁÁÁù  óÄÄÄü„}}}||~YYY »  pZZZ ¾PROP%   #       ð
+      DefinesCapabilities       PROP          ð
+       EnabledPROPd   ‚       ù
+   	   HistoryId  ò ºº»ÔÔánŠ¹ëë–Ÿ & !(‹ !i™ !4l !;® !XÜ !)d !£9 !vS f
+ 9	NNNNNN¬PROP!   1       ÿ 
+      LineJoinMode  P     PROP$   a       ÿ
+
+      Name   UIStroke 0PtrokePROP$   N       ÿ
+   
+   SourceAssetId  pPROP   )       ï
+      Tags  P     PROP-   .       ð
+   	   Thickness 0~€  3 °  3      4 PROP!   1       ÿ 
+      Transparency  P     PROPU          ù
+      UniqueId  ] ‚ £¦ÅÌíü )   R » e ñ ' M  , pÖÖÖÖÖÖÖPRNTÏ   =      ? g  ÿ%R
+ t
+  ð&'*		   `-> a
+
+
+ ÿ	 2·¼
+Ëžÿ#ðA    
+   
+ 	    N   
+ 	0-Kˆ 
+ 
+  ›Ð… ¼    » END     	       </roblox>
