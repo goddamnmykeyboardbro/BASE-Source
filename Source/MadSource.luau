@@ -1325,7 +1325,7 @@ local script = G2L["67"];
 	
 	made by loafmoonlua (Discord) , quintyn_im_him (discord)
 	
-			[Github Source: ]
+			[ Github Source: https://github.com/goddamnmykeyboardbro/BASE-Source/blob/main/Source/MadSource.luau ]
 end;
 task.spawn(C_67);
 
